@@ -17,7 +17,7 @@ const nomor_hp_yang_ngirim = "+6281935432992"
 const nama_yang_ngirim = "Kiki"
 
 // nama 
-const nama = "RARA"
+const nama = "Naura"
 
 // yang ini biarin aja
 let n = 0
@@ -30,10 +30,10 @@ const kata = [
   `Selamat ulang tahun ya ${nama}, 🎂`,
   `Jaga kesehatan yaaa 🙃`,
   `Maaf bila hadiahnya ga seberapa, tetep bahagia yaa 🤗`,
-  `BTW KEMBALIKAN SEMPAK KUNINGKU WOII 🤗`,
-  `Selalu tersenyum, apapun yang orang lakuin ke kamu ya rara ;-) ${nama}`,
+  ` Semoga segala yang terbaik untuk cintaku selalu menyertai🤗`,
+  `Selalu tersenyum, apapun yang orang lakuin ke kamu ya Nauraa;-) ${nama}`,
   `Jangan lupa di makan 🍰 nya, walau virtual hehe 😁`,
-  `Sekali lagi selamat HBD ${nama} my bestyy 🙌✨`
+  `Sekali lagi selamat HBD ${nama} my Loveee 🙌✨`
 ]
 
 function gantiGambar(a) {
